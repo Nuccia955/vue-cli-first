@@ -9,5 +9,7 @@ export default {
 </script>
 
 <style>
-
+    h1 {
+        margin: 60px auto;
+    }
 </style>
